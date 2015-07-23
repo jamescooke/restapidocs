@@ -1,26 +1,20 @@
 # REST API Documentation Templates
 
-## In Markdown (for now)
+## In Markdown
 
-These are templates that were inspired by @iros 's [documentation
+Inspired by [@iros](https://github.com/iros)'s [documentation
 gist](https://gist.github.com/iros/3426278).
 
-The focus is on using the templating language, Markdown, to create
-comprehensive, structured and helpful API documentation - the structure of
-which can be regular and repeated across endpoints and between projects.
+Focus on using the templating Markdown to create comprehensive, structured and
+helpful API documentation. Structure should be regular and repeated across
+endpoints and between projects.
 
-There are two parts:
+## By example
 
-* [Templates](templates) - These are abstracted templates which (for now) can
-  be manually copied and filled in.
+All templates are provided by example:
+
 * [Examples](examples) - For each template, a completed anonymised example.
-  Where possible this example comes from a real project.
-
-## Future
-
-* RST translation
-* Use of a templating language and helper to create a simple renderer to
-  replace the manual copy / paste / replace process.
+Where possible this example comes from a real project.
 
 ## Free
 
