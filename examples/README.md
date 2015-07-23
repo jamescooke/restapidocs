@@ -1,4 +1,8 @@
-# Example RESTAPIDocs Documentation
+# RESTAPIDocs Examples
+
+These examples were taken from projects mainly using [Django Rest
+Framework](https://github.com/tomchristie/django-rest-framework) and so the
+JSON responses are often similar to the way in which DRF makes responses.
 
 ## Open Endpoints
 
@@ -6,7 +10,7 @@ Open endpoints require no Authentication.
 
 * [Login](login.md) : `POST /api/login/`
 
-## Endpoints that require Authorization
+## Endpoints that require Authentication
 
 Closed endpoints require a valid Token to be included in the header of the
 request. A Token can be acquired from the Login view above.
