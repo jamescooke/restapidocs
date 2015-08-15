@@ -20,7 +20,7 @@ request. A Token can be acquired from the Login view above.
 Each endpoint manipulates or displays information related to the User whose
 Token is provided with the request:
 
-* [TODO Show info](user/get.md) : `GET /api/user/`
+* [Show info](user/get.md) : `GET /api/user/`
 * [TODO Update info](user/put.md) : `PUT /api/user/`
 
 ### Account related
