@@ -21,7 +21,7 @@ Each endpoint manipulates or displays information related to the User whose
 Token is provided with the request:
 
 * [Show info](user/get.md) : `GET /api/user/`
-* [TODO Update info](user/put.md) : `PUT /api/user/`
+* [Update info](user/put.md) : `PUT /api/user/`
 
 ### Account related
 
