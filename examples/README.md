@@ -30,6 +30,6 @@ has permissions to access.
 
 * [Show Accessible Accounts](accounts/get.md) : `GET /api/accounts/`
 * [Create Account](accounts/post.md) : `POST /api/accounts/`
-* [TODO Show An Account](accounts/pk/get.md) : `GET /api/accounts/:pk/`
+* [Show An Account](accounts/pk/get.md) : `GET /api/accounts/:pk/`
 * [TODO Update An Account](accounts/pk/put.md) : `PUT /api/accounts/:pk/`
 * [TODO Delete An Account](accounts/pk/delete.md) : `DELETE /api/accounts/:pk/`
