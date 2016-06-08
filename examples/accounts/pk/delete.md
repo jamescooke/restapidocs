@@ -4,7 +4,8 @@ Delete the Account of the Authenticated User if they are Owner.
 
 **URL** : `/api/accounts/:pk/`
 
-**URL Parameters** : `pk=[integer]` where `pk` is the ID of the Account on the
+**URL Parameters** : `pk=[integer]` where `pk` is the ID of the Account in the
+database.
 
 **Method** : `DELETE`
 

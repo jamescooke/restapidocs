@@ -17,7 +17,7 @@ Provide name of Account to be created.
 
 ```json
 {
-    "name": "[unicode 64 chars max]",
+    "name": "[unicode 64 chars max]"
 }
 ```
 
@@ -25,7 +25,7 @@ Provide name of Account to be created.
 
 ```json
 {
-    "name": "Build something project dot com",
+    "name": "Build something project dot com"
 }
 ```
 
